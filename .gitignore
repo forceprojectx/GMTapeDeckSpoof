@@ -1,0 +1,8 @@
+Release
+bin
+*.pdb
+ipch
+*.obj
+obj
+*.exe
+*.dll
